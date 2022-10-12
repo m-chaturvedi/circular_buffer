@@ -76,7 +76,6 @@ int main(int argc, char* argv[])
         ++num_loops;
     }
 
-    sleep(100);
     delete[] A;
     return 0;
 }
