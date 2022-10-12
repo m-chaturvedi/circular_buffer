@@ -1,0 +1,7 @@
+.ccls-cache/
+*.o
+*.pid
+main
+fizzbuzz
+buffer_output.bin
+
